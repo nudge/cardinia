@@ -17,7 +17,7 @@ Designator,Comment,Description,Footprint
 "J1","5V","CONN-HDR-TH: Header, 2-Pin","HEADER-1X2-NO"
 "J2, J4","GND","CONN-HDR-TH: Header, 2-Pin","HEADER-1X2-NO"
 "J3","3V3","CONN-HDR-TH: Header, 2-Pin","HEADER-1X2-NO"
-"J5","SWD","CONN-HDR-TH: 10-pin JTAG/SWD Connector 0.050"","FTSH-105-01-XXX-D-K"
+"J5","SWD","CONN-HDR-TH: 10-pin JTAG/SWD Connector 0.050\"","FTSH-105-01-XXX-D-K"
 "J6","Debug UART","CONN-HDR-TH: Header, 4-Pin","HEADER-1X4"
 "J7","NET","CONN-ETH-TH: HanRun HR911105A 10/100 RJ-45 Connector non-PoE","HR911105A"
 "J8","USB-B","CONN-USB-TH: USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle","CONNB_USB_12P04"

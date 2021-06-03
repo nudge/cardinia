@@ -16,7 +16,7 @@ Due to the global semiconductor shortage and parts availability, some parts have
 - Change Ethernet PHY from SMSC LAN8720 to SMSC LAN8742
 - Change EEPROM from -I/SN to -I/OT
 - Change Audio electrolytic capacitors to Panasonic EEEFK1E100R
-- Change BOOT pins to enter USB1 DFU mode
+- Change BOOT pushbutton to enter USB1 DFU mode
 - Change RCA connector to Switchcraft PJRAS2X1S01AUX to imrpove rigidity
 - Add W25Q16JVSSIQ Flash
 - Add Cardinia Electronics logo
@@ -28,7 +28,7 @@ Due to the global semiconductor shortage and parts availability, some parts have
 ### Revision B, 29 Mar 2021
 Optimization pass.
 
-- Change Buck Converter to TI TPS62291DRVR
+- Change Buck converter to TI TPS62291DRVR
 - Change C57, C58 audio filter capacitors to C0G type
 - Change Ethernet PHY to SMSC LAN8720
 - Change passives to 0402 where possible

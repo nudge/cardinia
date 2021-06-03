@@ -7,7 +7,7 @@ Learn more at https://cardinia.net/mini/
 
 # Version History
 
-### Revision C, 31 Jun 2021
+### Revision C, 31 May 2021
 
 Due to the global semiconductor shortage and parts availability, some parts have been changed.
 
@@ -17,7 +17,7 @@ Due to the global semiconductor shortage and parts availability, some parts have
 - Change EEPROM from -I/SN to -I/OT
 - Change Audio electrolytic capacitors to Panasonic EEEFK1E100R
 - Change BOOT pushbutton to enter USB1 DFU mode
-- Change RCA connector to Switchcraft PJRAS2X1S01AUX to imrpove rigidity
+- Change RCA connector to Switchcraft PJRAS2X1S01AUX to improve rigidity
 - Add W25Q16JVSSIQ Flash
 - Add Cardinia Electronics logo
 - Add Version resistors

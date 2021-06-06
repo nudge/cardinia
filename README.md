@@ -4,6 +4,10 @@ Cardinia Mini Open Source
 
 Learn more at https://cardinia.net/mini/
 
+# Block Diagram
+
+![Cardinia Mini Rev C - Block Diagram](https://user-images.githubusercontent.com/360201/120929072-d6e4dc80-c6e7-11eb-83b2-ddbb2bade4c2.png)
+
 
 # Version History
 

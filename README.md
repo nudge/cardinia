@@ -4,8 +4,23 @@ Cardinia Mini Open Source
 
 Learn more at https://cardinia.net/mini/
 
+# Block Diagram
+
+![Cardinia Mini Rev C - Block Diagram](https://user-images.githubusercontent.com/360201/120929072-d6e4dc80-c6e7-11eb-83b2-ddbb2bade4c2.png)
+
 
 # Version History
+
+### Revision C2, 06 Dec 2021
+
+Due to the global semiconductor shortage and parts availability, some parts have been changed.
+
+- Change MCU from NXP LPC54S016JBD100E to NXP LPC54016JBD100E
+- Change Ethernet PHY from SMSC LAN8742 to SMSC LAN8720
+- Change Audio electrolytic capacitors to Nichicon UCD1C100MCL1GS
+- Change Buck converter to Torex XC9236A33CMR
+- Change Input inductor to MWSA0518S-4R7MT
+
 
 ### Revision C, 31 May 2021
 

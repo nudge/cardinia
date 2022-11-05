@@ -6,10 +6,22 @@ Learn more at https://cardinia.net/mini/
 
 # Block Diagram
 
-![Cardinia Mini Rev C - Block Diagram](https://raw.githubusercontent.com/nudge/cardinia-mini/main/hardware/Cardinia%20Mini%20Rev.C2%20-%20Block%20Diagram.png)
+![Cardinia Mini Rev C - Block Diagram](https://raw.githubusercontent.com/nudge/cardinia-mini/main/hardware/Cardinia%20Mini%20Rev.D%20-%20Block%20Diagram.png)
 
 
 # Version History
+
+### Revision D, 23 Sep 2022
+
+Due to the global semiconductor shortage and parts availability, some parts have been changed.
+
+- Change MCU from NXP LPC54016JBD100E to NXP LPC54S016JBD100E
+- Change Audio DAC from TI PCM5121 to TI PCM5142 (improved audio performance!)
+- Change Buck converter to Texas Instruments LM3671MF-3.3
+- Change Input inductor to MWSA0402S-2R2MT
+- Change EEPROM to Atmel AT24MAC402
+- Change JTAG/SWD connector footprint to TagConnect TC2030
+
 
 ### Revision C2, 06 Dec 2021
 

@@ -6,7 +6,7 @@ Learn more at https://cardinia.net/mini/
 
 # Block Diagram
 
-![Cardinia Mini Rev C - Block Diagram](https://raw.githubusercontent.com/nudge/cardinia-mini/main/hardware/Cardinia%20Mini%20Rev.D%20-%20Block%20Diagram.png)
+![Cardinia Mini Rev C - Block Diagram](https://raw.githubusercontent.com/nudge/cardinia/main/cardinia-mini/hardware/Cardinia%20Mini%20Rev.D%20-%20Block%20Diagram.png)
 
 
 # Version History

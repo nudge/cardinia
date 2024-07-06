@@ -2,7 +2,7 @@
 
 Cardinia Mini Open Source
 
-Learn more at [https://cardinia.net/mini/](https://cardinia.net/products/mini/)
+Learn more at https://cardinia.net/products/mini/
 
 # Block Diagram
 

@@ -6,7 +6,7 @@ Learn more at https://cardinia.net/products/pro/
 
 # Block Diagram
 
-![Cardinia Pro Rev A - Block Diagram](https://raw.githubusercontent.com/nudge/cardinia/main/cardinia-pro/hardware/Cardinia%20Pro%20Rev.A%20-%20Block%20Diagram.png)
+![Cardinia Pro Rev A - Block Diagram](https://raw.githubusercontent.com/nudge/cardinia/main/cardinia-pro/hardware/Cardinia%20Pro%20Rev.A2%20-%20Block%20Diagram.png)
 
 
 # Version History
